@@ -1,0 +1,15 @@
+body {
+  padding: 0 50px;
+  font-family: "Arvo", serif;
+  color: #2f3e46;
+}
+
+.logo {
+  font-family: "Sigmar", cursive;
+}
+
+.java {
+  color: #cf3535; /* fallback for old browsers */
+}
+
+@import "https://fonts.googleapis.com/css2?family=Anton&family=Arvo&family=Roboto&family=Sigmar&display=swap";
